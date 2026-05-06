@@ -1,16 +1,39 @@
-## Hi there 👋
+# Juan Manuel Arroyo
 
-<!--
-**juan-arroyo/juan-arroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught infrastructure enthusiast based in Alicante, Spain.
+I learn by building real things — not tutorials, not sandboxes.
 
-Here are some ideas to get you started:
+Currently open to **SysAdmin / DevOps / Platform Engineer** opportunities in the **Netherlands** and **Germany**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I run
+
+A Raspberry Pi 5 homelab with 25+ Docker containers in production:
+reverse proxy, VPN, DNS blocker, monitoring, automated backups, self-hosted cloud, MQTT broker, and more.
+
+→ [github.com/juan-arroyo/Homelab](https://github.com/juan-arroyo/Homelab)
+
+---
+
+## Projects I built
+
+| Project | Stack |
+|---|---|
+| **bombas-iot** | Django · PostgreSQL · MQTT · Nginx · Docker |
+| **clinica-solaz** | Django · PostgreSQL · Nginx · Docker |
+| **cv-web** | Custom · Live at [jmarroyo.es](https://www.jmarroyo.es) |
+| **django-cicd** | Django · GitHub Actions · Docker |
+
+---
+
+## Stack
+
+Docker · Linux · PostgreSQL · MariaDB · Nginx · WireGuard · Ansible · Python · Django · GitHub Actions
+
+---
+
+## Contact
+
+- 🌐 [jmarroyo.es](https://jmarroyo.es)
+- 💼 LinkedIn: [linkedin.com/in/juanmarroyo/](https://linkedin.com/in/juanmarroyo)
