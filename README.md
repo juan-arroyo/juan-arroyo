@@ -21,7 +21,7 @@ reverse proxy, VPN, DNS blocker, monitoring, automated backups, self-hosted clou
 | Project | Stack |
 |---|---|
 | **bombas-iot** | Django · PostgreSQL · MQTT · Nginx · Docker |
-| **clinica-solaz** | Django · PostgreSQL · Nginx · Docker |
+| **clinic-manager** | Django · PostgreSQL · Nginx · Docker · Live in production |
 | **cv-web** | Custom · Live at [jmarroyo.es](https://www.jmarroyo.es) |
 | **django-cicd** | Django · GitHub Actions · Docker |
 
